@@ -1,4 +1,4 @@
-## Currently Under Development!
+## We are currently developing services
 
 This service has been under development since August 2024, with a target release date around September of this year. We are fully committed to providing a valuable service to our users.
 

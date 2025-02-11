@@ -1,6 +1,6 @@
 ## We are currently developing services
 
-> **Note:** We are currently experimenting with the service in [Bluesky](https://bsky.app/profile/did:plc:uoqbys35s7ncc2ccslvpx4g6), [Mastodon](https://mastodon.social/@evacuate) and [Nostr](https://www.evacuate.jp/socials).
+> **Note:** We are currently experimenting with the service in [Bluesky](https://bsky.app/profile/did:plc:uoqbys35s7ncc2ccslvpx4g6), [Mastodon](https://mastodon.social/@evacuate) and [Nostr](https://evacuate.io/socials).
 
 This service has been under development since August 2024, with a target release date around September of this year. We are fully committed to providing a valuable service to our users.
 

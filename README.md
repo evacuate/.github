@@ -1,1 +1,1 @@
-Shared community files for [the Evacuate organization](https://github.com/evacuate)
+Shared community files for [the evacuate organization](https://github.com/evacuate)

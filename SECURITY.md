@@ -4,4 +4,4 @@ If you believe you have found a security vulnerability, we encourage you to let 
 
 We will investigate all legitimate reports and do our best to quickly fix the problem.
 
-Email contact@evacuate.jp to disclose any security vulnerabilities.
+Email contact@evacuate.io to disclose any security vulnerabilities.
